@@ -5,10 +5,11 @@ La  idea inicial de este proyecto fue, sobre todo, la de crear un mundo fantást
 
 Los referentes principales en los que me inspiré fueron: Turner, de quien me interesa sobre todo el uso del color y la pseudo abstracción, Kaspar David Friederich, en quien encuentro muy inspiradores los paisajes de ruinas desolados, William Blake y Alan Lee, por parte de las artes plásticas y J. R. R. Tolkien y Brandon Sanderson por parte de la escritura, maestros de la fantasía y creadores de mundos, Neil Gaimann (escritor) y El Bosco, que crean mundos fantásticos y extremadamente extraños. Además de muchos clásicos, tanto de la pintura como de la literatura, como Dante, Leonardo, Velázquez, Goya o Durero.
 
-Todo esto queda plasmado en el mapa conceptual en el que se ha convertido mi esquina del taller:
-![IMG_20211014_162123-1](C:\Users\Ramón Serrano\ProyectoFinal\IMG_20211014_162123-1.jpg)
+Todo esto queda plasmado en el mapa conceptual en el que se ha convertido mi esquina del taller:![WhatsApp Image 2021-10-18 at 15.56.06](./WhatsApp Image 2021-10-18 at 15.56.06.jpeg)
 
-![IMG_20211014_162145](C:\Users\Ramón Serrano\ProyectoFinal\IMG_20211014_162145.jpg)
+![WhatsApp Image 2021-10-27 at 13.05.14](./WhatsApp Image 2021-10-27 at 13.05.14.jpeg)
+
+![IMG_20211014_162123-1](./IMG_20211014_162123-1.jpg)
 
 ---
 
@@ -46,16 +47,17 @@ En cuanto al uso del color, a medida que el proyecto avanzaba, se hacía más pr
 1. *Mapa Conceptual* (Pared)
     Considero el mapa conceptual, situado en las paredes de mi taller, como una obra cambiante, una obra de obras, retales, apuntes, bocetos y notas que sirve como índice, presentación y guía de mi trabajo.
 2. *La Sinéctica* (Óleo sobre papel)
-    Esta obra es la primera propiamente dicha realizada *ad hoc* para este proyecto. Representa a Oberón, rey de las Hadas, marchando con sus ejércitos venidos de otro mundo. La obra trata de exponer la antítesis de mis ideales, encarnando una imagen del Poder.![Final](C:\Users\Ramón Serrano\ProyectoFinal\Final.jpg)
+    Esta obra es la primera propiamente dicha realizada *ad hoc* para este proyecto. Representa a Oberón, rey de las Hadas, marchando con sus ejércitos venidos de otro mundo. La obra trata de exponer la antítesis de mis ideales, encarnando una imagen del Poder.![Final](./Final.jpg)
 3. *El Cambio* (Óleo sobre sábana)
-    El proyecto sobre el cambio habla de la decadencia y el paso del tiempo a través de elementos arquitectónicos. Es además, relativamente ambigua, pues si se le da la vuelta, se podrá interpretar de manera diferente: no tiene un arriba o un abajo definidos. Se puede interpretar tanto como el futuro decadente que espera, si el reflejo es la ruina, o como una nostalgia por el esplendor pasado, si la ruina es la realidad.
+    El proyecto sobre el cambio habla de la decadencia y el paso del tiempo a través de elementos arquitectónicos. Es además, relativamente ambigua, pues si se le da la vuelta, se podrá interpretar de manera diferente: no tiene un arriba o un abajo definidos. Se puede interpretar tanto como el futuro decadente que espera, si el reflejo es la ruina, o como una nostalgia por el esplendor pasado, si la ruina es la realidad.![_1010243](./_1010243.jpeg)
 4. *El No-Lugar* (Temple sobre tabla y óleo sobre tabla)
-    Esta serie de tres obras intenta relfejar los no-lugares desde el punto de vista de la imagen y desde el del proceso: visualmente, se presentan como paisajes desolados, agrestes y hostiles, incompatibles con la vida en sociedad; procedimentalmente son abstracciones, pues no tenía intención representativa ni mimética al pintarlos, sólo de experimentar con la técnica y el color.![Tabla1](C:\Users\Ramón Serrano\ProyectoFinal\Tabla1.jpg)![Tabla2](C:\Users\Ramón Serrano\ProyectoFinal\Tabla2.JPG)![Tabla3](C:\Users\Ramón Serrano\ProyectoFinal\Tabla3.jpg)
+    Esta serie de tres obras intenta relfejar los no-lugares desde el punto de vista de la imagen y desde el del proceso: visualmente, se presentan como paisajes desolados, agrestes y hostiles, incompatibles con la vida en sociedad; procedimentalmente son abstracciones, pues no tenía intención representativa ni mimética al pintarlos, sólo de experimentar con la técnica y el color.![Tabla1](./Tabla1.jpg)![Tabla2](./Tabla2.JPG)![Tabla3](./Tabla3.jpg)
 
-Otras obras que considero incluidas dentro del recorrido del proceso, aunque no son parte propiamente del mismo, están presentes en mi esquina:
+Otras obras que considero incluidas dentro del recorrido del proyecto, aunque no son parte propiamente del mismo, están presentes en mi esquina:
 
-+ Arquitecturas
-+ Árboles
+![IMG_20211014_162111](./IMG_20211014_162111.jpeg)
+
+![IMG_20211014_162145](./IMG_20211014_162145.jpg)
 
 ### Análisis de Datos
 
@@ -71,12 +73,13 @@ En conclusión, estoy bastante satisfecho con la evolución de mi proyecto perso
 
 Como proyecto final, he barajado varias ideas. La principal de ellas y la que más me atrae es intentar rematar la creación de este mundo fantástico empleando otra de mis pasiones a parte de la Pintura: la informática.
 
-Mi idea inicial era implementar un autómata celular
-
-[^1]: Un autómata celular (A.C.) es un modelo matemático y computacional para un sistema dinámico que evoluciona en pasos discretos. Es adecuado para modelar sistemas naturales que puedan ser descritos como una colección masiva de objetos simples que interactúen localmente unos con otros (desde Wikipedia: https://es.wikipedia.org/wiki/Aut%C3%B3mata_celular).
-
-, cuyos patrones fueran interesantes y desarrollasen una gama cromática parecida a la que uso en mi obra. Este autómata sería la representación del mundo microscópico del mundo fantástico, en el que se definen las interacciones básicas de este, y a partir de las cuales todo es creado. Este sería el acto más elevado de creación pues, virtualmente, sería posible crear todo a partir de estos bloques básicos.![Autómatas Celulares - Fernando Sancho Caparrini](http://www.cs.us.es/~fsancho/images/2015-07/719999898_2fe8f23617.jpg)
+Mi idea inicial era implementar un autómata[^1] celular, cuyos patrones fueran interesantes y desarrollasen una gama cromática parecida a la que uso en mi obra. Este autómata sería la representación del mundo microscópico del mundo fantástico, en el que se definen las interacciones básicas de este, y a partir de las cuales todo es creado. Este sería el acto más elevado de creación pues, virtualmente, sería posible crear todo a partir de estos bloques básicos.
 
 Esta idea, aunque muy interesante, se apoya poco en la pintura, y puede llegar a ser complicada de realizar si surgiera algún problema.
 
 Mi plan para el proyecto final se apoya en esta idea, pero incluye los aspectos materiales y los procedimientos con los que he ido trabajando a lo largo del cuatrimestre: definir, a la manera de los antiguos filósofos griegos, una suerte de metafísica o cosmología para mi mundo, y plasmarla en un documento hecho a mano, con bocetos, manuscrito, algo parecido a los cuadernos de Da Vinci, o los libros medievales.
+
+---
+
+[^1]: ![Autómatas Celulares - Fernando Sancho Caparrini](http://www.cs.us.es/~fsancho/images/2015-07/719999898_2fe8f23617.jpg)Un autómata celular (A.C.) es un modelo matemático y computacional para un sistema dinámico que evoluciona en pasos discretos. Es adecuado para modelar sistemas naturales que puedan ser descritos como una colección masiva de objetos simples que interactúen localmente unos con otros (desde Wikipedia: https://es.wikipedia.org/wiki/Aut%C3%B3mata_celular).
+
