@@ -1,0 +1,989 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{cms/global//global/global}
+  \entry{achilli2016}{book}{}
+    \name{author}{1}{}{%
+      {{hash=AJ}{%
+         family={Achilli},
+         familyi={A\bibinitperiod},
+         given={Justin},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nosolorol}%
+    }
+    \strng{namehash}{AJ1}
+    \strng{fullhash}{AJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{title}{Vampiro: La Mascarada}
+    \field{year}{2016}
+  \endentry
+
+  \entry{arduino}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{title}{Arduino}
+    \verb{url}
+    \verb https://www.arduino.cc/
+    \endverb
+    \field{journaltitle}{Arduino}
+  \endentry
+
+  \entry{arteiv}{inbook}{}
+    \name{author}{1}{}{%
+      {{hash=CC}{%
+         family={Cennini},
+         familyi={C\bibinitperiod},
+         given={Cennino},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Sucesor de E. Meseguer}%
+    }
+    \strng{namehash}{CC1}
+    \strng{fullhash}{CC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{booktitle}{Tratado de la Pintura: El Libro del Arte}
+    \field{title}{IV}
+    \field{year}{1956}
+  \endentry
+
+  \entry{cennini1956}{book}{}
+    \name{author}{1}{}{%
+      {{hash=CC}{%
+         family={Cennini},
+         familyi={C\bibinitperiod},
+         given={Cennino},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Sucesor de E. Meseguer}%
+    }
+    \strng{namehash}{CC1}
+    \strng{fullhash}{CC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{Tratado de la Pintura: El Libro del Arte}
+    \field{year}{1956}
+  \endentry
+
+  \entry{chief2009}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=C}{%
+         family={Chief},
+         familyi={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{C1}
+    \strng{fullhash}{C1}
+    \field{labelnamesource}{author}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \verb{url}
+    \verb https://www.brandonsanderson.com/
+    \endverb
+    \field{journaltitle}{Brandon Sanderson}
+    \field{year}{2009}
+  \endentry
+
+  \entry{garcia}{book}{}
+    \list{publisher}{1}{%
+      {Vosgos}%
+    }
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{Cien años de Soledad: Gabriel García Márquez}
+    \field{year}{1978}
+  \endentry
+
+  \entry{gaiman2021}{book}{}
+    \name{author}{1}{}{%
+      {{hash=GN}{%
+         family={Gaiman},
+         familyi={G\bibinitperiod},
+         given={Neil},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {William Morrow Company}%
+    }
+    \strng{namehash}{GN1}
+    \strng{fullhash}{GN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{title}{Stardust}
+    \field{year}{2021}
+  \endentry
+
+  \entry{goldmanfilipettovidal2013}{book}{}
+    \name{author}{3}{}{%
+      {{hash=GW}{%
+         family={Goldman},
+         familyi={G\bibinitperiod},
+         given={William},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=FC}{%
+         family={Filipetto},
+         familyi={F\bibinitperiod},
+         given={Celia},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=VM}{%
+         family={Vidal},
+         familyi={V\bibinitperiod},
+         given={Mar},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Martínez Roca}%
+    }
+    \strng{namehash}{GWFCVM1}
+    \strng{fullhash}{GWFCVM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{title}{La Princesa Prometida}
+    \field{year}{2013}
+  \endentry
+
+  \entry{hackaday}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{Hackaday}
+    \verb{url}
+    \verb https://hackaday.com/
+    \endverb
+    \field{journaltitle}{Hackaday}
+  \endentry
+
+  \entry{hesiodo1990}{book}{}
+    \name{author}{1}{}{%
+      {{hash=H}{%
+         family={Hesiodo},
+         familyi={H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Alianza Editorial}%
+    }
+    \strng{namehash}{H1}
+    \strng{fullhash}{H1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{Teogonia}
+    \field{year}{1990}
+  \endentry
+
+  \entry{terramar}{book}{}
+    \name{author}{2}{}{%
+      {{hash=KLGU}{%
+         family={K.},
+         familyi={K\bibinitperiod},
+         given={Le\bibnamedelima Guin\bibnamedelima Ursula},
+         giveni={L\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim
+  U\bibinitperiod},
+      }}%
+      {{hash=LUK}{%
+         family={LeGuin},
+         familyi={L\bibinitperiod},
+         given={Ursula\bibnamedelima K.},
+         giveni={U\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Graphia}%
+    }
+    \strng{namehash}{KLGULUK1}
+    \strng{fullhash}{KLGULUK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{title}{A wizard of earthsea}
+    \field{year}{2012}
+  \endentry
+
+  \entry{cprogramming}{book}{}
+    \name{author}{2}{}{%
+      {{hash=KBW}{%
+         family={Kernighan},
+         familyi={K\bibinitperiod},
+         given={Brian\bibnamedelima W.},
+         giveni={B\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=RDM}{%
+         family={Ritchie},
+         familyi={R\bibinitperiod},
+         given={Dennis\bibnamedelima M.},
+         giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Pearson}%
+    }
+    \strng{namehash}{KBWRDM1}
+    \strng{fullhash}{KBWRDM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{title}{The C programming language}
+    \field{year}{2015}
+  \endentry
+
+  \entry{matute}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MMA}{%
+         family={María},
+         familyi={M\bibinitperiod},
+         given={Matute\bibnamedelima Ana},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Planeta DeAgostini}%
+    }
+    \strng{namehash}{MMA1}
+    \strng{fullhash}{MMA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{Olvidado Rey gudú}
+    \field{year}{1999}
+  \endentry
+
+  \entry{mayer1948}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MR}{%
+         family={Mayer},
+         familyi={M\bibinitperiod},
+         given={Ralph},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Hachette}%
+    }
+    \strng{namehash}{MR1}
+    \strng{fullhash}{MR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{Manual del Artista: Materiales Y Técnicas}
+    \field{year}{1948}
+  \endentry
+
+  \entry{meier}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=MS}{%
+         family={Meier},
+         familyi={M\bibinitperiod},
+         given={Sid},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {2K Games}%
+    }
+    \strng{namehash}{MS1}
+    \strng{fullhash}{MS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{Civilization VI}
+  \endentry
+
+  \entry{miyamoto}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=MS}{%
+         family={Miyamoto},
+         familyi={M\bibinitperiod},
+         given={Shigeru},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nintendo}%
+    }
+    \strng{namehash}{MS2}
+    \strng{fullhash}{MS2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{Legend of zelda: Skyward Sword}
+  \endentry
+
+  \entry{miyamoto2}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=MS}{%
+         family={Miyamoto},
+         familyi={M\bibinitperiod},
+         given={Shigeru},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nintendo}%
+    }
+    \strng{namehash}{MS2}
+    \strng{fullhash}{MS2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{The legend of zelda: Breath of the wild}
+  \endentry
+
+  \entry{miyamoto3}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=MS}{%
+         family={Miyamoto},
+         familyi={M\bibinitperiod},
+         given={Shigeru},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nintendo}%
+    }
+    \strng{namehash}{MS2}
+    \strng{fullhash}{MS2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{The legend of zelda: Majora's mask}
+  \endentry
+
+  \entry{nannou}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=N}{%
+         family={Nannou},
+         familyi={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{N1}
+    \strng{fullhash}{N1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{title}{Nannou.cc}
+    \verb{url}
+    \verb https://nannou.cc/
+    \endverb
+    \field{journaltitle}{Nannou}
+  \endentry
+
+  \entry{persson}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=PM}{%
+         family={Persson},
+         familyi={P\bibinitperiod},
+         given={Markus},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Mojang AB}%
+    }
+    \strng{namehash}{PM1}
+    \strng{fullhash}{PM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{title}{Minecraft}
+  \endentry
+
+  \entry{raspberry}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=PR}{%
+         family={Pi},
+         familyi={P\bibinitperiod},
+         given={Raspberry},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PR1}
+    \strng{fullhash}{PR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{title}{Teach, learn, and make with Raspberry Pi}
+    \verb{url}
+    \verb https://www.raspberrypi.org/
+    \endverb
+    \field{journaltitle}{Raspberry Pi}
+  \endentry
+
+  \entry{processing}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{title}{Processing.org}
+    \verb{url}
+    \verb https://processing.org/
+    \endverb
+    \field{journaltitle}{Processing}
+  \endentry
+
+  \entry{silmarillion}{book}{}
+    \name{author}{1}{}{%
+      {{hash=RTJR}{%
+         family={R.},
+         familyi={R\bibinitperiod},
+         given={Tolkien J\bibnamedelima R},
+         giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim
+  R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Minotauro}%
+    }
+    \strng{namehash}{RTJR1}
+    \strng{fullhash}{RTJR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{title}{El Silmarillion}
+    \field{year}{1987}
+  \endentry
+
+  \entry{cartast}{book}{}
+    \name{author}{3}{}{%
+      {{hash=RTJR}{%
+         family={R.},
+         familyi={R\bibinitperiod},
+         given={Tolkien J\bibnamedelima R},
+         giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim
+  R\bibinitperiod},
+      }}%
+      {{hash=CH}{%
+         family={Carpenter},
+         familyi={C\bibinitperiod},
+         given={Humphrey},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=TC}{%
+         family={Tolkien},
+         familyi={T\bibinitperiod},
+         given={Christopher},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Planeta-De Agostini}%
+    }
+    \strng{namehash}{RTJRCHTC1}
+    \strng{fullhash}{RTJRCHTC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{title}{Cartas de J.R.R. tolkien}
+    \field{year}{2002}
+  \endentry
+
+  \entry{gandalf}{inbook}{}
+    \name{author}{2}{}{%
+      {{hash=RTJR}{%
+         family={R.},
+         familyi={R\bibinitperiod},
+         given={Tolkien J\bibnamedelima R},
+         giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim
+  R\bibinitperiod},
+      }}%
+      {{hash=FM}{%
+         family={Figueroa},
+         familyi={F\bibinitperiod},
+         given={Manuel},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Booket}%
+    }
+    \strng{namehash}{RTJRFM1}
+    \strng{fullhash}{RTJRFM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{booktitle}{El Hobbit}
+    \field{title}{La Última Jornada}
+    \field{year}{2014}
+  \endentry
+
+  \entry{hobbitprincipio}{inbook}{}
+    \name{author}{2}{}{%
+      {{hash=RTJR}{%
+         family={R.},
+         familyi={R\bibinitperiod},
+         given={Tolkien J\bibnamedelima R},
+         giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim
+  R\bibinitperiod},
+      }}%
+      {{hash=FM}{%
+         family={Figueroa},
+         familyi={F\bibinitperiod},
+         given={Manuel},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Booket}%
+    }
+    \strng{namehash}{RTJRFM1}
+    \strng{fullhash}{RTJRFM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{booktitle}{El Hobbit}
+    \field{title}{Una tertulia inesperada}
+    \field{year}{2014}
+  \endentry
+
+  \entry{esdla}{book}{}
+    \name{author}{3}{}{%
+      {{hash=RTJR}{%
+         family={R.},
+         familyi={R\bibinitperiod},
+         given={Tolkien J\bibnamedelima R},
+         giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim
+  R\bibinitperiod},
+      }}%
+      {{hash=LD}{%
+         family={Luis},
+         familyi={L\bibinitperiod},
+         given={Domènech},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=HM}{%
+         family={Horne},
+         familyi={H\bibinitperiod},
+         given={Matilde},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Minotauro}%
+    }
+    \strng{namehash}{RTJRLDHM1}
+    \strng{fullhash}{RTJRLDHM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{title}{El Señor de los anillos}
+    \field{year}{2010}
+  \endentry
+
+  \entry{hobbit}{book}{}
+    \name{author}{3}{}{%
+      {{hash=RTJR}{%
+         family={R.},
+         familyi={R\bibinitperiod},
+         given={Tolkien J\bibnamedelima R},
+         giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim
+  R\bibinitperiod},
+      }}%
+      {{hash=TC}{%
+         family={Tolkien},
+         familyi={T\bibinitperiod},
+         given={Christopher},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=ADA}{%
+         family={Anderson},
+         familyi={A\bibinitperiod},
+         given={Douglas\bibnamedelima A.},
+         giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {HarperCollins Publishers}%
+    }
+    \strng{namehash}{RTJRTCADA1}
+    \strng{fullhash}{RTJRTCADA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{title}{The Hobbit: Or there and back again}
+    \field{year}{2020}
+  \endentry
+
+  \entry{conlangs}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{title}{R/conlangs}
+    \verb{url}
+    \verb https://www.reddit.com/r/conlangs/
+    \endverb
+    \field{journaltitle}{reddit}
+  \endentry
+
+  \entry{rice1994}{book}{}
+    \name{author}{1}{}{%
+      {{hash=RA}{%
+         family={Rice},
+         familyi={R\bibinitperiod},
+         given={Anne},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Ediciones B}%
+    }
+    \strng{namehash}{RA1}
+    \strng{fullhash}{RA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{title}{Entrevista con El Vampiro}
+    \field{year}{1994}
+  \endentry
+
+  \entry{worldbuilding}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{title}{R/worldbuilding}
+    \verb{url}
+    \verb https://www.reddit.com/r/worldbuilding/
+    \endverb
+    \field{journaltitle}{reddit}
+  \endentry
+
+  \entry{sanderson2020}{book}{}
+    \name{author}{1}{}{%
+      {{hash=SB}{%
+         family={Sanderson},
+         familyi={S\bibinitperiod},
+         given={Brandon},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Tor Fantasy}%
+    }
+    \strng{namehash}{SB1}
+    \strng{fullhash}{SB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{The stormlight archive}
+    \field{year}{2020}
+  \endentry
+
+  \entry{sandersonjuramento}{inbook}{}
+    \name{author}{2}{}{%
+      {{hash=SB}{%
+         family={Sanderson},
+         familyi={S\bibinitperiod},
+         given={Brandon},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=RTM}{%
+         family={Rafael},
+         familyi={R\bibinitperiod},
+         given={Trechera\bibnamedelima Marín},
+         giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Ediciones B}%
+    }
+    \strng{namehash}{SBRTM1}
+    \strng{fullhash}{SBRTM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{booktitle}{El Archivo de las tormentas}
+    \field{edition}{10}
+    \field{title}{59. Un Honor}
+    \field{volume}{1}
+    \field{year}{2015}
+  \endentry
+
+  \entry{rivia}{book}{}
+    \name{author}{1}{}{%
+      {{hash=SJMAyF}{%
+         family={Sapkowski},
+         familyi={S\bibinitperiod},
+         suffix={Andrzej y\bibnamedelima Faraldo},
+         suffixi={A\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim
+  F\bibinitperiod},
+         given={José\bibnamedelima María},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Alamut}%
+    }
+    \strng{namehash}{SAyFJM1}
+    \strng{fullhash}{SAyFJM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{La Saga de Geralt de Rivia}
+    \field{year}{2009}
+  \endentry
+
+  \entry{shakespeare}{book}{}
+    \name{author}{11}{}{%
+      {{hash=SW}{%
+         family={Shakespeare},
+         familyi={S\bibinitperiod},
+         given={William},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=SW}{%
+         family={Shakespeare},
+         familyi={S\bibinitperiod},
+         given={William},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=SW}{%
+         family={Shakespeare},
+         familyi={S\bibinitperiod},
+         given={William},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=SW}{%
+         family={Shakespeare},
+         familyi={S\bibinitperiod},
+         given={William},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=SW}{%
+         family={Shakespeare},
+         familyi={S\bibinitperiod},
+         given={William},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=SW}{%
+         family={Shakespeare},
+         familyi={S\bibinitperiod},
+         given={William},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=SW}{%
+         family={Shakespeare},
+         familyi={S\bibinitperiod},
+         given={William},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=SW}{%
+         family={Shakespeare},
+         familyi={S\bibinitperiod},
+         given={William},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=SW}{%
+         family={Shakespeare},
+         familyi={S\bibinitperiod},
+         given={William},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=SW}{%
+         family={Shakespeare},
+         familyi={S\bibinitperiod},
+         given={William},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=ea}{%
+         prefix={et},
+         prefixi={e\bibinitperiod},
+         family={al.},
+         familyi={a\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Edimat Libros}%
+    }
+    \strng{namehash}{SW+1}
+    \strng{fullhash}{SWSWSWSWSWSWSWSWSWSWae1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{William Shakespeare: Romeo y julieta ; Macbeth ; Hamlet ;
+  Otelo ; El Sueño de una noche de Verano ; La Fierecilla Domada ; El
+  Mercader de Venecia}
+    \field{year}{2013}
+  \endentry
+
+  \entry{shiffman2012}{book}{}
+    \name{author}{1}{}{%
+      {{hash=SD}{%
+         family={Shiffman},
+         familyi={S\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Selbstverl.}%
+    }
+    \strng{namehash}{SD1}
+    \strng{fullhash}{SD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{The nature of code simulating natural systems with
+  processing}
+    \field{year}{2012}
+  \endentry
+
+  \entry{demoscene}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{title}{The demoscene}
+    \verb{url}
+    \verb https://www.demoscene.info/
+    \endverb
+    \field{journaltitle}{The demoscene - demoscene.info - the portal on the
+  demoscene}
+  \endentry
+
+  \entry{zelda}{misc}{}
+    \list{publisher}{1}{%
+      {Nintentdo}%
+    }
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{title}{The Legend of Zelda}
+    \field{year}{1986}
+  \endentry
+
+  \entry{stoker}{book}{}
+    \name{author}{5}{}{%
+      {{hash=TR}{%
+         family={Thomas},
+         familyi={T\bibinitperiod},
+         given={Roy},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=CFF}{%
+         family={Coppola},
+         familyi={C\bibinitperiod},
+         given={Francis\bibnamedelima Ford},
+         giveni={F\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=SB}{%
+         family={Stoker},
+         familyi={S\bibinitperiod},
+         given={Bram},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=MM}{%
+         family={Mignola},
+         familyi={M\bibinitperiod},
+         given={Mike},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=NFP}{%
+         family={Navarro},
+         familyi={N\bibinitperiod},
+         given={Francisco\bibnamedelima Pérez},
+         giveni={F\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Norma Editorial}%
+    }
+    \strng{namehash}{TR+1}
+    \strng{fullhash}{TRCFFSBMMNFP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{title}{Drácula, De Bram Stoker}
+    \field{year}{2019}
+  \endentry
+
+  \entry{historiamedia}{book}{}
+    \name{author}{2}{}{%
+      {{hash=TJRR}{%
+         family={Tolkien},
+         familyi={T\bibinitperiod},
+         given={J\bibnamedelima R.\bibnamedelima R.},
+         giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim
+  R\bibinitperiod},
+      }}%
+      {{hash=TC}{%
+         family={Tolkien},
+         familyi={T\bibinitperiod},
+         given={Christopher},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Minotauro}%
+    }
+    \strng{namehash}{TJRRTC1}
+    \strng{fullhash}{TJRRTC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{title}{Historia de la Tierra Media}
+    \field{year}{1991}
+  \endentry
+\enddatalist
+\endinput

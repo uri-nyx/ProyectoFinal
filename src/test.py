@@ -5,10 +5,10 @@ from ursina.prefabs.first_person_controller import FirstPersonController
 
 # Classes
 def init_world(x, z):
-    sky = Sky(texture=load_texture("assets/sky.jpeg"))
+    sky = Sky(texture="assets/top.png")
     
     floor = Button(parent= scene, 
-                   color = color.orange, 
+                   color = color.white33, 
                    position = (0,0,0), 
                    origin_y = 0,
                    model = "cube",
@@ -65,6 +65,14 @@ def load_frames(json_file):
         fr.rotation_y += frame["Yrotate"]
         fr.rotation_x -= frame["Xrotate"]
         entities.append(fr)
+        
+        antifr = Frame(img="assets/" + frame["file"],
+                       position = (frame["pos"]["x"], - frame["pos"]["y"] - 1, frame["pos"]["z"],),
+                       scale_x = frame["scale"],
+                       description = frame["description"])
+        antifr.rotation_y += frame["Yrotate"]
+        antifr.rotation_x -= frame["Xrotate"] - 185
+        entities.append(fr)
     
     for frame in south:
         #negative z, remain x
@@ -102,12 +110,39 @@ def load_frames(json_file):
     
     
     return entities
-        
 
+class Spectator(FirstPersonController):
+    def __init__(self):
+        super().__init__(position = (0, 1, 0))
+        self.flying = False
+    
+    def update(self):
+        if self.flying:
+            self.gravity = 0
+            self.y += (held_keys["v"] - held_keys["b"]) * time.dt * 10
+        else:
+            self.gravity = 1
+            
+        return super().update()
+    
+    def input(self, key):
+        if key == "v":
+            self.start_flying()
+        elif key == "c":
+            self.stop_flying()
+        
+        return super().input(key)
+    
+    def start_flying(self):
+        self.flying = True
+    
+    def stop_flying(self):
+        self.flying = False
+        
 app = Ursina()
 
 init_world(100, 100)
 frames = load_frames("/Users/rserrano/grepos/ProyectoFinal/src/obras.json")
-player = FirstPersonController(position = (1, 2, 1))
+player = Spectator()
     
 app.run()

@@ -1,0 +1,58 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {spanish}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {I}Temática}{1}{section.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {II}Referentes}{2}{section.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {\es@scroman {i}}Literatura}{2}{subsection.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{J.R.R. Tolkien}{2}{paragraph*.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Brandon Sanderson}{2}{paragraph*.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Neil Gaiman}{2}{paragraph*.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Ana María Matute}{2}{paragraph*.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {\es@scroman {ii}}Artes Plásticas}{3}{subsection.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Turner}{3}{paragraph*.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{David Kaspar Friederich}{3}{paragraph*.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{El Bosco}{3}{paragraph*.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Goya}{3}{paragraph*.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {\es@scroman {iii}}Música}{3}{subsection.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {\es@scroman {iv}}Videojuegos}{4}{subsection.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{The Legend of Zelda}{4}{paragraph*.9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Minecraft}{4}{paragraph*.10}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {\es@scroman {v}}Informática}{4}{subsection.2.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {\es@scroman {vi}}Otras influencias}{5}{subsection.2.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {III}Enfoque y Marco Teórico}{6}{section.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {\es@scroman {i}}De la Creación de Mundos}{6}{subsection.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {\es@scroman {ii}}Del proceso de creación}{7}{subsection.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {IV}Planteamiento Metodológico y Técnico}{9}{section.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {\es@scroman {i}}Estrategias conceptuales}{9}{subsection.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {\es@scroman {ii}}Estrategias plásticas}{10}{subsection.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {V}Conclusiones}{11}{section.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {VI}Anexo: Exposición del proyecto}{12}{section.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {\es@scroman {i}}Relación de obras}{12}{subsection.6.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Referencias}{24}{subsection.6.1}%

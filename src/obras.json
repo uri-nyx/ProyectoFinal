@@ -8,7 +8,7 @@
             "y": 0.5,
             "z": 20
         },
-        "scale" : 10,
+        "scale" : 20,
         "Xrotate" : 0,
         "Yrotate" : 0
 
@@ -87,7 +87,7 @@
             "y": 0.5,
             "z": 17
         },
-        "scale" : 10,
+        "scale" : 16,
         "Xrotate" : 0,
         "Yrotate" : -30
 
@@ -116,7 +116,7 @@
             "y": 0,
             "z": 20 
         },
-        "scale" : 10,
+        "scale" : 11,
         "Xrotate" : 0,
         "Yrotate" : 0
 
@@ -135,7 +135,7 @@
 
     },
     {
-        "file" : "Tabla3.jpg",
+        "file" : "Tabla1.jpg",
         "description" : "Proyecto del Cambio",
         "pos" : {
             "x": 10,
