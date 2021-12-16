@@ -35,8 +35,6 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {\es@scroman {v}}Informática}{4}{subsection.2.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {\es@scroman {vi}}Otras influencias}{5}{subsection.2.6}%
-\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {III}Enfoque y Marco Teórico}{6}{section.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {\es@scroman {i}}De la Creación de Mundos}{6}{subsection.3.1}%
@@ -55,4 +53,4 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {\es@scroman {i}}Relación de obras}{12}{subsection.6.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Referencias}{24}{subsection.6.1}%
+\contentsline {chapter}{Referencias}{24}{Item.10}%

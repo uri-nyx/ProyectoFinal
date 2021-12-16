@@ -4,11 +4,24 @@
         "file" : "torres.jpeg",
         "description" : "Proyecto del Cambio",
         "pos" : {
-            "x": 0,
+            "x": -5,
             "y": 0.5,
-            "z": 20
+            "z": 70
         },
-        "scale" : 20,
+        "scale" : 80,
+        "Xrotate" : 0,
+        "Yrotate" : 0
+
+    },
+    {
+        "file" : "mori.jpg",
+        "description" : "Proyecto del Cambio",
+        "pos" : {
+            "x": 0,
+            "y": 1.5,
+            "z": 5
+        },
+        "scale" : 2,
         "Xrotate" : 0,
         "Yrotate" : 0
 
@@ -19,11 +32,11 @@
         "pos" : {
             "x": -7.5,
             "y": 0.5,
-            "z": 20
+            "z": 13
         },
         "scale" : 5,
         "Xrotate" : 0,
-        "Yrotate" : 0
+        "Yrotate" : -20
 
     },
     {
@@ -32,22 +45,61 @@
         "pos" : {
             "x": 7.5,
             "y": 0.5,
-            "z": 20
+            "z": 13
         },
         "scale" : 5,
         "Xrotate" : 0,
-        "Yrotate" : 0
+        "Yrotate" : 20
 
     },
     {
         "file" : "barco.jpg",
         "description" : "Proyecto del Cambio",
         "pos" : {
-            "x": 6.5,
-            "y": 7.5,
-            "z": 20
+            "x": 0,
+            "y": 1.5,
+            "z": 13
         },
-        "scale" : 3,
+        "scale" : 6,
+        "Xrotate" : 0,
+        "Yrotate" : 0
+
+    },
+    {
+        "file" : "jinetes.jpg",
+        "description" : "Proyecto del Cambio",
+        "pos" : {
+            "x": -7.5,
+            "y": 0.5,
+            "z": 23
+        },
+        "scale" : 5,
+        "Xrotate" : 0,
+        "Yrotate" : -20
+
+    },
+    {
+        "file" : "casa.jpg",
+        "description" : "Proyecto del Cambio",
+        "pos" : {
+            "x": 7.5,
+            "y": 0.5,
+            "z": 23
+        },
+        "scale" : 5,
+        "Xrotate" : 0,
+        "Yrotate" : 20
+
+    },
+    {
+        "file" : "Arbol.jpg",
+        "description" : "Proyecto del Cambio",
+        "pos" : {
+            "x": 0,
+            "y": 1.5,
+            "z": 23
+        },
+        "scale" : 6,
         "Xrotate" : 0,
         "Yrotate" : 0
 
@@ -57,52 +109,26 @@
         "file" : "nubes.jpg",
         "description" : "Proyecto del Cambio",
         "pos" : {
-            "x": 14.5,
+            "x": 50.5,
             "y": 0.5,
-            "z": 17
+            "z": 50
         },
-        "scale" : 10,
+        "scale" : 39,
         "Xrotate" : 0,
-        "Yrotate" : 30
+        "Yrotate" : 45
 
     },
     {
-        "file" : "palacio.jpg",
+        "file" : "sofi.jpg",
         "description" : "Proyecto del Cambio",
         "pos" : {
-            "x": 0,
-            "y": 13,
-            "z": 20
+            "x": 50.5,
+            "y": 29,
+            "z": 50
         },
-        "scale" : 20,
+        "scale" : 39,
         "Xrotate" : 0,
-        "Yrotate" : 0
-
-    },
-    {
-        "file" : "Final.jpg",
-        "description" : "Proyecto del Cambio",
-        "pos" : {
-            "x": -14.5,
-            "y": 0.5,
-            "z": 17
-        },
-        "scale" : 16,
-        "Xrotate" : 0,
-        "Yrotate" : -30
-
-    },
-    {
-        "file" : "negra.jpg",
-        "description" : "Proyecto del Cambio",
-        "pos" : {
-            "x": -7.5,
-            "y": 8,
-            "z": 20 
-        },
-        "scale" : 5,
-        "Xrotate" : 0,
-        "Yrotate" : 0
+        "Yrotate" : 45
 
     }
 ],
@@ -114,9 +140,9 @@
         "pos" : {
             "x": 0,
             "y": 0,
-            "z": 20 
+            "z": 50 
         },
-        "scale" : 11,
+        "scale" : 31,
         "Xrotate" : 0,
         "Yrotate" : 0
 
@@ -125,26 +151,66 @@
         "file" : "Tabla3.jpg",
         "description" : "Proyecto del Cambio",
         "pos" : {
-            "x": -10,
+            "x": -40,
             "y": 0,
-            "z": 17 
+            "z": 37
         },
-        "scale" : 10,
+        "scale" : 30,
         "Xrotate" : 0,
-        "Yrotate" : 20
+        "Yrotate" : 45
 
     },
     {
         "file" : "Tabla1.jpg",
         "description" : "Proyecto del Cambio",
         "pos" : {
-            "x": 10,
+            "x": 40,
             "y": 0,
-            "z": 17 
+            "z": 37 
         },
-        "scale" : 10,
+        "scale" : 30,
+        "Xrotate" : 0,
+        "Yrotate" : -45
+
+    },
+
+    {
+        "file" : "bosque.jpg",
+        "description" : "Proyecto del Cambio",
+        "pos" : {
+            "x": -7.5,
+            "y": 0.5,
+            "z": 13
+        },
+        "scale" : 5,
+        "Xrotate" : 0,
+        "Yrotate" : 20
+
+    },
+    {
+        "file" : "linea.jpg",
+        "description" : "Proyecto del Cambio",
+        "pos" : {
+            "x": 7.5,
+            "y": 0.5,
+            "z": 13
+        },
+        "scale" : 7,
         "Xrotate" : 0,
         "Yrotate" : -20
+
+    },
+    {
+        "file" : "desembarco.jpg",
+        "description" : "Proyecto del Cambio",
+        "pos" : {
+            "x": 0,
+            "y": 1.5,
+            "z": 15
+        },
+        "scale" : 6,
+        "Xrotate" : 0,
+        "Yrotate" : 0
 
     }
 
@@ -152,23 +218,133 @@
 ],
 
 "West" : [
-    
+    {
+        "file" : "puerto.jpg",
+        "description" : "Proyecto del Cambio",
+        "pos" : {
+            "x": 55,
+            "y": 0,
+            "z": 13 
+        },
+        "scale" : 60,
+        "Xrotate" : 0,
+        "Yrotate" : 10
+
+    },
+    {
+        "file" : "palacio.jpg",
+        "description" : "Proyecto del Cambio",
+        "pos" : {
+            "x": 55,
+            "y": 42,
+            "z": 13 
+        },
+        "scale" : 60,
+        "Xrotate" : 0,
+        "Yrotate" : 10
+
+    },
+
+    {
+        "file" : "negra.jpg",
+        "description" : "Proyecto del Cambio",
+        "pos" : {
+            "x": 15,
+            "y": 1.5,
+            "z": 0 
+        },
+        "scale" : 7,
+        "Xrotate" : 0,
+        "Yrotate" : 0
+
+    },
+
+    {
+        "file" : "pablo.jpg",
+        "description" : "Proyecto del Cambio",
+        "pos" : {
+            "x": 13,
+            "y": 0.5,
+            "z": 7.5 
+        },
+        "scale" : 5,
+        "Xrotate" : 0,
+        "Yrotate" : 30
+
+    },
+
+    {
+        "file" : "tinta.jpg",
+        "description" : "Proyecto del Cambio",
+        "pos" : {
+            "x": 13,
+            "y": 0.5,
+            "z": -7.5 
+        },
+        "scale" : 5,
+        "Xrotate" : 0,
+        "Yrotate" : -30
+
+    }
 
 ],
 
 "East" : [
     {
-        "file" : "puerto.jpg",
+        "file" : "Final.jpg",
         "description" : "Proyecto del Cambio",
         "pos" : {
-            "x": 20,
-            "y": 0,
+            "x": 57,
+            "y": 0.5,
+            "z": 0
+        },
+        "scale" : 44,
+        "Xrotate" : 0,
+        "Yrotate" : 10
+
+    },
+
+    {
+        "file" : "grabado1.jpg",
+        "description" : "Proyecto del Cambio",
+        "pos" : {
+            "x": 15,
+            "y": 0.5,
             "z": 0 
         },
-        "scale" : 30,
+        "scale" : 7,
         "Xrotate" : 0,
         "Yrotate" : 0
 
+    },
+
+    {
+        "file" : "grabado3.jpg",
+        "description" : "Proyecto del Cambio",
+        "pos" : {
+            "x": 13,
+            "y": 0.5,
+            "z": 7.5 
+        },
+        "scale" : 5,
+        "Xrotate" : 0,
+        "Yrotate" : 30
+
+    },
+
+    {
+        "file" : "grabado2.jpg",
+        "description" : "Proyecto del Cambio",
+        "pos" : {
+            "x": 13,
+            "y": 0.5,
+            "z": -7.5 
+        },
+        "scale" : 5,
+        "Xrotate" : 0,
+        "Yrotate" : -30
+
     }
+   
 ]
 }
